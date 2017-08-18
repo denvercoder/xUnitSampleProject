@@ -1,0 +1,13 @@
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.runner.visualstudio.testadapter.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.runner.utility.net35.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.runner.reporters.net452.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.abstractions.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\MyFirstUnitTests.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\MyFirstUnitTests.pdb
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.assert.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.core.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\net452\xunit.execution.desktop.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\net452\MyFirstUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\net452\MyFirstUnitTests.AssemblyInfo.cs
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\net452\MyFirstUnitTests.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\net452\MyFirstUnitTests.pdb

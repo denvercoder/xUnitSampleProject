@@ -1,0 +1,11 @@
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\MyFirstUnitTests.deps.json
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\netcoreapp2.0\MyFirstUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\netcoreapp2.0\MyFirstUnitTests.AssemblyInfo.cs
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\MyFirstUnitTests.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\MyFirstUnitTests.pdb
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\netcoreapp2.0\MyFirstUnitTests.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\obj\Debug\netcoreapp2.0\MyFirstUnitTests.pdb
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\xunit.abstractions.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\xunit.assert.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\xunit.core.dll
+C:\Users\tmyers\Desktop\MyFirstUnitTests\bin\Debug\netcoreapp2.0\xunit.execution.dotnet.dll
